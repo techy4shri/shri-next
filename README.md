@@ -1,3 +1,2 @@
-# shri-next# shri-next
-
-a nodejs app made as I learn how to make a node.js application
+a node.js app built to implement some the most vital components.
+For practice :) 
